@@ -24,10 +24,6 @@ A role-based assignment management dashboard built with **React**, **Tailwind CS
   - Delete assignments
   - Expandable submission tracking per student (Submitted / Not Submitted, timestamps, Drive links)
   - Grade submissions with letter grades (A+ to F) or numeric scores (0–100)
-- **Intervention & Feedback**:
-  - Send direct feedback messages tagged as *Encouraging* or *Constructive*
-  - Assign remedial tasks and schedule 1-on-1 sessions
-  - AI-generated intervention suggestions for at-risk students
 
 ### 3. 👨‍🎓 Student Dashboard
 - **Personalized view**: Students see only their own assigned tasks
